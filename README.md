@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Human Vs Human  tic tac toe game build in python with If else conditions
+You can play against another human or a random bot or AI
+Note: The AI is unbeatable
